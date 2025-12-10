@@ -43,7 +43,7 @@ python tools/create_data.py nuscenes --root-path ./data/nuscenes --out-dir ./dat
 ```
 Using the above code will generate `nuscenes_infos_temporal_{train,val}.pkl`.
 **Folder structure**
-```
+```bash
 bevformer
 ├── projects/
 ├── tools/
@@ -74,4 +74,3 @@ Eval BEVFormer
 ## Visualization 
 
 see [visual.py](../tools/analysis_tools/visual.py)
-
