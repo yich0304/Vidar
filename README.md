@@ -69,7 +69,7 @@ Train BEVFormer
 ```
 Eval BEVFormer
 ```
-./tools/dist_test.sh ./projects/configs/bevformer/bevformer_base.py ./path/to/ckpts.pth 8
+./tools/dist_test.sh ./projects/configs/bevformer/bevformer_base.py ./path/to/ckpts.pth 1
 ```
 ## Visualization 
 
