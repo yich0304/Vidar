@@ -14,7 +14,7 @@
 </h3>
     
 ## Environment Setup 
-```bash
+```
 conda create -n open-mmlab python=3.8 -y
 conda activate open-mmlab
 pip install torch==1.9.1+cu111 torchvision==0.10.1+cu111 torchaudio==0.9.1 -f https://download.pytorch.org/whl/torch_stable.html
@@ -43,7 +43,7 @@ python tools/create_data.py nuscenes --root-path ./data/nuscenes --out-dir ./dat
 ```
 Using the above code will generate `nuscenes_infos_temporal_{train,val}.pkl`.
 **Folder structure**
-```bash
+```
 bevformer
 ├── projects/
 ├── tools/
@@ -73,4 +73,5 @@ Eval BEVFormer
 ```
 ## Visualization 
 
-see [visual.py](main/tools/analysis_tools/visual.py)
+![BEV qualitative results with ViDAR-pretrained BEVFormer](vis_base_random_0_bev.png)
+![Multi-view qualitative results with ViDAR-pretrained BEVFormer](vis_base_random_0_camera.png)
