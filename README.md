@@ -8,7 +8,7 @@
     ,
     <strong>Zhifeng Zheng</strong>
   </h3>
-  <h3 align="center"><a href="./assets/gsplatam-paper.pdf">Paper</a> | <a href="./assets/gsplatam-poster.pdf">Poster
+  <h3 align="center"><a href="./assets/ROB535_FinalProject_Group9.pdf">Paper</a> | <a href="./assets/CoRL_Poster.png">Poster
   <div align="center"></div>
 </p>
 </h3>
