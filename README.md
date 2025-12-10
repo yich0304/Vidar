@@ -73,4 +73,4 @@ Eval BEVFormer
 ```
 ## Visualization 
 
-see [visual.py](../tools/analysis_tools/visual.py)
+see [visual.py](main/tools/analysis_tools/visual.py)
